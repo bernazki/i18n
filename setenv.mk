@@ -1,4 +1,3 @@
-
 export CC=$(shell icu-config --cc)
 export CXX=$(shell icu-config --cxx)
 export ICU_CFLAGS=$(shell icu-config --cflags) 
